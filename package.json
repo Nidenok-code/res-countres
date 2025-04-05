@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/Nidenok-code/res-countres.git",
+  "homepage": "https://nidenok-code.github.io/res-countres",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
